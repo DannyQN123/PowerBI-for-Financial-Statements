@@ -2,6 +2,10 @@
 - This is a homework project from Corporate Finance Institute - BI&DA certificates - PowerBI for Financial Statements course.
 - **The purpose of this project:** GL Retail Corporation is a retail company with 5 retail stores. Provided with Transactional Data from General Ledger Table, create a PowerBI report for Financial statements.
 
+### Entity Relationship Diagram (ERD) of the given data tables
+![image](https://github.com/user-attachments/assets/ed3bd92c-1625-4852-b4d3-0138eb1884df)
+
+
 ### Income Statements
 ![image](https://github.com/user-attachments/assets/cbe5024f-9a91-4083-955e-9cc9a91d8784)
 ![image](https://github.com/user-attachments/assets/6f0c66c0-ce2c-4436-abf6-6403ff7df634)
